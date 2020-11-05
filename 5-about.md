@@ -5,6 +5,10 @@ nav: true
 
 # Roman Jurowetzki, PhD
 
+
+{% include figure.html img="https://vbn.aau.dk/files-asset/329013048/Importeret+foto.jpg/" alt="intro image here" caption="NLP Workshop 1960" width="75%" %}
+
+
 ![](https://vbn.aau.dk/files-asset/329013048/Importeret+foto.jpg/)
 
 is an Associate Professor of Innovation Studies and Applied Data Science at Aalborg University, Denmark.
