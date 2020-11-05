@@ -4,15 +4,27 @@ title: Home
 
 # Workshop Template!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="NLP Workshop 1960" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
 
 *Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+In this workshop we are going to explore various approaches to dealing with natural language aka text data. Due to time constraints I will keep things rather "shallow" but hopefully you will get inspired to go deeper with some of this on your own.
+
+
+## 2 ways of working with text
+
+* ### Element level (from long texts or collections of text) e.g. network of entities from a book or collection of news articles
+
+* ### Representations of short text 
+  * Supervised approches: e.g. classification of many short texts
+  * Unsupervised approaches: e.g. topic modelling (clustering)
+
+## Corresponding questions:
+
+* Are there some central elements/concepts? Can we identify interesting patterns of interaction?
+* Can we develop a model that maps text inputs to a specific output given labeled data?
+* Can we identify some coherent latent topics/themes in a given corpus?
 
 *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
